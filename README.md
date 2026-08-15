@@ -145,15 +145,6 @@ Focused on:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s3yato&show_icons=true&theme=default&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3yato&layout=compact&theme=default" />
-</p>
-
----
-
 ## 🏆 Engineering Interests
 
 ```text
