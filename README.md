@@ -1,177 +1,225 @@
-<h1 align="center">Hi 👋, I'm Egor</h1>
+<br clear="both">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=600&lines=C%2B%2B+Developer+%7C+Backend+Engineer;Building+High-Performance+Systems;AI%2C+Robotics+%26+Distributed+Systems" alt="Typing SVG" />
+<div align="center">
+  <img height="300" width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNxbWZkcjJpMTJkaGl1cjc4MzB3bTZjc2plcXppOG80Zmhwc2QzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" alt="Coding animation" />
+</div>
+
+<br>
+
+<div align="center">
+
+# Hi 👋, I'm Egor
+
+### C++ Developer · Systems Programming · Linux · Backend
+
+<p>
+  <a href="https://www.linkedin.com/in/egor-syharnikov-074516382/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/s3yato">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
-
-## 🧑‍💻 About Me
-
-Hi! I'm Egor — a **C++ Developer focused on backend systems, performance optimization, and applied AI**.
-
-I enjoy building software where low-level engineering meets real-world applications: from high-performance C++ services and memory-efficient architectures to AI-powered tools and robotics systems.
-
-My main interests:
-
-* ⚡ Modern C++ (C++17/20), clean architecture, and performance engineering
-* 🧠 Artificial Intelligence & local AI systems
-* 🌐 Backend development and distributed systems
-* 🤖 Robotics and computer vision
-* 🎮 Game engines, rendering, and simulation
-* 🔥 Open-source engineering
-
-I have experience building:
-
-* C++ backend services
-* REST API systems
-* Database-driven applications
-* AI integrations
-* Computer vision pipelines
-* Custom libraries and infrastructure components
-
-Currently, I’m developing projects around **C++ systems programming, AI assistants, robotics, and scalable backend architectures**.
-
-I’m open to collaborating on ambitious open-source projects and engineering challenges.
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## About Me
 
-### 🧠 Second Brain — Personal AI Memory System
+I'm a C++ developer focused on understanding how software works under the hood.
 
-A C++ based intelligent memory platform designed to store, retrieve, and process personal knowledge.
+* C++20 and modern C++
+* Systems programming and Linux
+* Multithreading, concurrency and memory
+* Networking and backend development
+* CMake and build systems
+* PostgreSQL and low-level infrastructure
+* Robotics and embedded systems
+* Open-source development
 
-**Stack:**
-
-* C++20
-* PostgreSQL
-* libpqxx
-* Crow Framework
-* LLM integrations
-* Custom memory architecture
-
-Features:
-
-* Context retrieval system
-* Project and decision management
-* Semantic memory concepts
-* AI assistant backend
+Currently looking for opportunities in **C++ / Systems / Backend / Infrastructure**.
 
 ---
 
-### 🤖 Robotics & Computer Vision
+## Featured Projects
 
-Building experimental robotics systems using:
+### Atlas Runtime
 
-* C++
-* Python
-* OpenCV
-* YOLO
-* Raspberry Pi
-* ESP32
+A C++20 deterministic runtime for robotics and real-time oriented applications.
 
-Working with:
+**Focus:**
 
-* sensor integration
-* embedded systems
-* computer vision pipelines
-* robot control logic
+* Event-driven architecture
+* Scheduler
+* Dataflow
+* HAL
+* RPC
+* Vision
+* Simulation
+* Qt monitoring tools
+* Cross-platform CI
+* Automated testing
 
----
-
-### ⚙️ C++ Infrastructure Projects
-
-Building reusable components:
-
-* Thread Pool
-* Event Bus
-* Memory Storage systems
-* Custom data structures
-* Rendering engine experiments
-
-Focused on:
-
-* RAII
-* templates
-* concurrency
-* memory management
-* clean architecture
+<a href="https://github.com/s3yato/Atlas-Runtime">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
-## 🛠️ Tech Stack
+### cppnew
+
+A **`cargo new`-like project scaffolding tool for C++**.
+
+The goal is to make starting a new C++ project as simple as:
+
+```bash
+cppnew my-project
+```
+
+It generates the project structure, CMake configuration, tests and development tooling.
+
+**Stack:** C++20 · CMake · CLI11 · GoogleTest · GitHub Actions
+
+<a href="https://github.com/s3yato/cppnew-">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+## Tech Stack
 
 ### Languages
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,bash" />
 </p>
 
-### Backend & Systems
+### Systems & Backend
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="45"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,cmake,postgres,docker,git" />
 </p>
 
-### Libraries & Frameworks
+### Robotics & Embedded
 
-* C++17 / C++20
-* STL
-* Boost
-* CMake
-* Crow
-* libpqxx
-* OpenCV
-* YOLO
-* nlohmann/json
-* spdlog
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv" />
+</p>
 
-### Tools
-
-* Git
-* Linux
-* Bash
-* PostgreSQL
-* Docker
-* CI/CD
-
----
-
-## 🏆 Engineering Interests
+### C++ Topics
 
 ```text
-C++            ████████████████████  Expert Focus
-Systems        ████████████████░░░░  Learning & Building
-Backend        ███████████████░░░░░  Active Development
-AI             ██████████████░░░░░░  Research & Integration
-Robotics       ████████████░░░░░░░░  Experimental Projects
-Graphics       ██████████░░░░░░░░░░  Engine Development
+C++20 / Modern C++
+        ↓
+STL & Memory
+        ↓
+Concurrency & Multithreading
+        ↓
+Networking & IPC
+        ↓
+Linux Internals
+        ↓
+System Architecture & Performance
 ```
 
 ---
 
-## 🌐 Let's Connect
+## Currently Learning
 
-<p align="center">
-  <a href="https://t.me/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+* Linux internals
+* Network programming
+* Advanced C++ concurrency
+* System architecture
+* Performance engineering
+* Low-level design
+* Open-source development
 
 ---
 
-<p align="center">
-  <i>"Building software where performance, intelligence, and engineering meet."</i>
-</p>
+<div align="center">
+  <img height="300" width="600"
+       src="assets/coding.gif"
+       alt="coding animation" />
+</div>
+
+---
+
+## 🔥 GitHub Statistics
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=s3yato&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5"
+       height="220"
+       alt="github streak" />
+    &nbsp;&nbsp;&nbsp;
+
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+</div>
+
+<br>
+
+## Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/s3yato/s3yato/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/s3yato/s3yato/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/s3yato/s3yato/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
+
+</div>
+
+---
+
+## Interests
+
+```text
+C++ / Systems
+Linux & Operating Systems
+Backend & Infrastructure
+Concurrency & Networking
+Robotics & Embedded
+Computer Vision
+Open Source
+Game Engines
+```
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/egor-syharnikov-074516382/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    height="35"
+  />
+</a>
+
+<a href="https://github.com/s3yato">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    height="35"
+  />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<i>Building systems, breaking abstractions, learning how things work.</i>
+
+</div>
